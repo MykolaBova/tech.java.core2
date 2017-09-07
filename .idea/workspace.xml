@@ -1,178 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85a799d2-feaa-46dd-9662-e60a3feac14a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/AnagramApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArrayApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArrayBub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArrayInOb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArrayIns.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArrayPar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArraySel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ArraySh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/BinarySearchApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/BubbleSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/DArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/DFSApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/DataItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/HashDoubleApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/HashTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Heap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/HeapApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/HighArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/HighArrayApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ListInsertionSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/LowArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/LowArrayApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/MergeApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/MergeSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ObjectSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/OrdArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/OrderedApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/PartitionApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Queue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/QueueApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/QuickSort3App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/SelectSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ShellSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/SortedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/TowersApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/TriangleApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap01/Bank/BankAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap01/Bank/BankApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap02/ClassData/ClassDataApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap02/ClassData/ClassDataArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap02/ClassData/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap03/InsertSort/ArrayIns.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap03/InsertSort/InsertSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Brackets/BracketChecker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Brackets/BracketsApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Brackets/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Infix/InToPost.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Infix/InfixApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Infix/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Postfix/ParsePost.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Postfix/PostfixApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Postfix/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/PriorityQ/PriorityQ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/PriorityQ/PriorityQApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Reverse/ReverseApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Reverse/Reverser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Reverse/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Stack/StackApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap04/Stack/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/doublyLinked/DoublyLinkedApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/doublyLinked/DoublyLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/doublyLinked/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/firstLastList/FirstLastApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/firstLastList/FirstLastList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/firstLastList/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/interIterator/InterIterApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/interIterator/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/interIterator/LinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/interIterator/ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList/LinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList/LinkListApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList2/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList2/LinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkList2/LinkList2App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkQueue/FirstLastList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkQueue/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkQueue/LinkQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkQueue/LinkQueueApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkStack/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkStack/LinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkStack/LinkStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/linkStack/LinkStackApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/sortedList/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/sortedList/SortedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap05/sortedList/SortedListApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap06/stackTriangle/Params.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap06/stackTriangle/StackTriangleApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap06/stackTriangle/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap06/stackTriangle2/StackTriangle2App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap06/stackTriangle2/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap07/quickSort1/ArrayIns.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap07/quickSort1/QuickSort1App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap07/quickSort2/ArrayIns.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap07/quickSort2/QuickSort2App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap08/tree/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap08/tree/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap08/tree/TreeApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap10/tree234/DataItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap10/tree234/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap10/tree234/Tree234.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap10/tree234/Tree234App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hash/DataItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hash/HashTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hash/HashTableApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hashChain/HashChainApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hashChain/HashTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hashChain/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap11/hashChain/SortedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap12/heapSort/Heap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap12/heapSort/HeapSortApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap12/heapSort/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/bfs/BFSApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/bfs/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/bfs/Queue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/bfs/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/mst/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/mst/MSTApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/mst/StackX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/mst/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/topo/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/topo/TopoApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap13/topo/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/mstw/Edge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/mstw/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/mstw/MSTWApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/mstw/PriorityQ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/mstw/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/path/DistPar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/path/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/path/PathApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/Chap14/path/Vertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/ReaderFiles/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/AppletList.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap02/Array/Array.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap02/OrderedArray/Ordered.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap03/Bubble/BubbleSort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap03/Insertion/InsertSort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap03/Selection/SelectSort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap04/PriorityQ/PriorityQ.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap04/Queue/Queue.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap04/Stack/Stack.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap05/LinkList/LinkList.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap06/MergeSort/MergeSort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap06/Towers/Towers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap07/Partition/Partition.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap07/QuickSort1/QuickSort1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap07/QuickSort2/QuickSort2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap07/ShellSort/ShellSort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap08/Tree/Tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap09/RBTree/RBTree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap10/Tree234/Tree234.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap11/Hash/Hash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap11/HashChain/HashChain.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap11/HashDouble/HashDouble.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap12/Heap/Heap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap13/GraphD/GraphD.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap13/GraphN/GraphN.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap14/GraphDW/GraphDW.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/Chap14/GraphW/GraphW.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/algo2/WorkshopApplets/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/base/hw1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/hw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/j1.java/ordArray.class" afterPath="" />
-    </list>
+    <list default="true" id="85a799d2-feaa-46dd-9662-e60a3feac14a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -188,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/collections/c7/com/monotonic/collections/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="659">
-              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -967,12 +796,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504362203731</updated>
       <workItem from="1504362224569" duration="1489000" />
-      <workItem from="1504764834314" duration="3464000" />
+      <workItem from="1504764834314" duration="3716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4953000" />
+    <option name="totallyTimeSpent" value="5205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1993" y="-5" width="1847" height="1085" extended-state="6" />
@@ -1443,7 +1272,7 @@
     <entry file="file://$PROJECT_DIR$/src/collections/c7/com/monotonic/collections/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
         </state>
       </provider>
