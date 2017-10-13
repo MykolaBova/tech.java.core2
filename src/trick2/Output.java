@@ -1,5 +1,12 @@
 package trick2;
 
+import javafx.print.Collation;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
+
 /**
  * Created by mbovalocal on 09.09.17.
  */
@@ -14,5 +21,8 @@ class Example
     {
         Example e1=new Example();
         e1.fun(3);
+
+        List l = new ArrayList();
+        List l2 = Collections.synchronizedList(l);
     }
 }
